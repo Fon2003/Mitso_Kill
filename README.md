@@ -1,14 +1,31 @@
 # Mitso_Kill
  My First Python Game 
+ 
+ ##GOAL
 
- Controlls:
+ $KILLEMALL$
+
+ ##ScreenShoots
+
+ ![WTF](https://github.com/Fon2003/Mitso_Kill/blob/main/1screen.png)
+ 
+ ![Play_screen(https://github.com/Fon2003/Mitso_Kill/blob/main/1screen.png)]
+ 
+ ##Controlls
  Movement -> WASD or Arrows 
  
  Shooting -> SPACE
 
- Hint Doors working !!!!
+ ##Hint 
+ 
+ Doors working !!!!
 
- This game is made for FUN and NOONE should be Offended !!!! 
+ 
+
+
+
+ ##ΔΟΛΟΦΩΝ_LETTER
+This game is made for FUN and NOONE should be Offended !!!! 
  
 $HAVEFUN$
 
